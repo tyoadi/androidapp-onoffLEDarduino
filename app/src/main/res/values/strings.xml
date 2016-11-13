@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">onoffLedArduino</string>
+    <string name="none_paired">no paired device</string>
+</resources>
